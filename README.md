@@ -1,0 +1,2 @@
+# INS_errors_model
+A project, which include model errors of INS (inertial navigation sysytem). This model need to imitate operation of navigation devices (gyros, acsselerometrs). At the etrance arrives file with aircraft's position (coordinats in  navigation coordinate system North-Up-East) and velocities (.txt file). At the end model get file .txt with parametrs (velocities, coordinates), including errors appliances.
